@@ -1,0 +1,31 @@
+{
+  "name": "fastipayatm",
+  "version": "1.0.0",
+  "description": "Interfaz visual tipo cajero para FastiPay - modo claro.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "fastipay",
+    "atm",
+    "frontend",
+    "cajero",
+    "web3",
+    "nextjs"
+  ],
+  "author": "Arymusmeth & ChatGPT",
+  "license": "MIT",
+  "dependencies": {
+    "next": "13.5.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.13",
+    "@types/react": "19.1.8",
+    "typescript": "^5.2.2"
+  }
+}
